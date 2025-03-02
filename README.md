@@ -7,4 +7,4 @@ editor_options:
 
 ---
 # hello-world
-My first Github Repository \# My Frist Project\##**Course**:Ess330\##**Name**:Cecily Sperber\##**Year**: Third Year\##**Major**: ESS\##**OS**:Windows 
+My first Github Repository \# My First Project\##**Course**:Ess330\##**Name**:Cecily Sperber\##**Year**: Third Year\##**Major**: ESS\##**OS**:Windows 
